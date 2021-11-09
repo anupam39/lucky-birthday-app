@@ -1,0 +1,22 @@
+h1{
+    text-align: center;
+}
+body{
+    background-color: beige;
+}
+.container{
+    width: 50%;
+    margin: auto;
+}
+input,label{
+    display:block;
+}
+input{
+    margin-bottom: 0.5rem;
+    width: 100%;
+}
+#check-button{
+    display: block;
+    margin-top: 1rem;
+    margin: auto;
+}
